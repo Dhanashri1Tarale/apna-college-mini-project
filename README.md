@@ -1,2 +1,2 @@
 # apna-college-mini-project
-mini project-photography page apna college
+this is mini-project of photography page.
